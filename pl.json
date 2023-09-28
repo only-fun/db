@@ -1,3 +1,14 @@
 {
-  "jokes": []
+  "jokes": [
+    {
+      "id": 1,
+      "question": "Jak się nazywa impreza siatkarzy?",
+      "answer": "Przyjęcie"
+    },
+    {
+      "id": 2,
+      "question": "Jaki jest ulubiony serek ratownika?",
+      "answer": "Topiony"
+    }
+  ]
 }
