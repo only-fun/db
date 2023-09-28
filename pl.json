@@ -9,6 +9,11 @@
       "id": 2,
       "question": "Jaki jest ulubiony serek ratownika?",
       "answer": "Topiony"
+    },
+    {
+      "id": 3,
+      "question": "Wiecie dlaczego smerfetka nigdy nie miała dzieci?",
+      "answer":  "Bo spała z Ciamajdą."
     }
   ]
 }
