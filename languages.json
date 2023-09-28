@@ -1,0 +1,12 @@
+[
+  {
+    "label": "English",
+    "code": "en",
+    "file": "./en.json"
+  },
+  {
+    "label": "Polski",
+    "code": "pl",
+    "file": "./pl.json"
+  }
+]
