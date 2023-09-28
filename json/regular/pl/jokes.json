@@ -1,0 +1,104 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "question": "Why don't scientists trust atoms?",
+      "answer": "Because they make up everything."
+    },
+    {
+      "id": 2,
+      "question": "Did you hear about the mathematician who's afraid of negative numbers?",
+      "answer": "He'll stop at nothing to avoid them."
+    },
+    {
+      "id": 3,
+      "question": "Why did the scarecrow win an award?",
+      "answer": "Because he was outstanding in his field."
+    },
+    {
+      "id": 4,
+      "question": "I told my wife she was drawing her eyebrows too high.",
+      "answer": "She looked surprised."
+    },
+    {
+      "id": 5,
+      "question": "Parallel lines have so much in common.",
+      "answer": "It's a shame they'll never meet."
+    },
+    {
+      "id": 6,
+      "question": "Why couldn't the bicycle stand up by itself?",
+      "answer": "Because it was two-tired."
+    },
+    {
+      "id": 7,
+      "question": "How do you organize a space party?",
+      "answer": "You 'planet'!"
+    },
+    {
+      "id": 8,
+      "question": "Why did the tomato turn red?",
+      "answer": "Because it saw the salad dressing."
+    },
+    {
+      "id": 9,
+      "question": "Why did the scarecrow become a successful politician?",
+      "answer": "Because he was outstanding in his field and great at 'straw' polls."
+    },
+    {
+      "id": 10,
+      "question": "What do you call a fake noodle?",
+      "answer": "An 'impasta'!"
+    },
+    {
+      "id": 11,
+      "question": "Why did the math book look sad?",
+      "answer": "Because it had too many problems."
+    },
+    {
+      "id": 12,
+      "question": "How do you make holy water?",
+      "answer": "You boil the hell out of it."
+    },
+    {
+      "id": 13,
+      "question": "What's orange and sounds like a parrot?",
+      "answer": "A carrot."
+    },
+    {
+      "id": 14,
+      "question": "I'm reading a book on anti-gravity.",
+      "answer": "It's impossible to put down."
+    },
+    {
+      "id": 15,
+      "question": "Why did the scarecrow win an award?",
+      "answer": "Because he was outstanding in his field."
+    },
+    {
+      "id": 16,
+      "question": "Why don't skeletons fight each other?",
+      "answer": "Because they don't have the guts."
+    },
+    {
+      "id": 17,
+      "question": "What did the janitor say when he jumped out of the closet?",
+      "answer": "Supplies!"
+    },
+    {
+      "id": 18,
+      "question": "Why did the golfer bring two pairs of pants?",
+      "answer": "In case he got a hole in one."
+    },
+    {
+      "id": 19,
+      "question": "Why don't oysters donate to charity?",
+      "answer": "Because they are shellfish."
+    },
+    {
+      "id": 20,
+      "question": "I used to play piano by ear, but now I use my hands.",
+      "answer": "It's much easier that way."
+    }
+  ]
+}
